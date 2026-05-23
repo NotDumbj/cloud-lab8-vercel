@@ -3,4 +3,4 @@
 **Name:** Muhammad Jibran  
 **Roll Number:** 01-131232-062  
 **Lab:** 8  
-**Production URL:** https://my-lab8-jl04bhbmf-jugeum.vercel.app
+**Production URL:** https://my-lab8-app-ruddy.vercel.app/
